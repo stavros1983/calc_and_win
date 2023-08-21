@@ -16,6 +16,8 @@ hard — урон от 30 до 40 очков.
 ВПЕРЁД К ПОБЕДЕ!!!
 '''
 
+
+
 def main():
     print(INTRO)
     replay = True
